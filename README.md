@@ -35,7 +35,7 @@ Possibly most customers made purchases during lunch hour between 12:00pm - 2:00p
 ### TOP 5 countries (without UK) that place the highest number of orders are as below:
 1. Germany
 2. France
-3. Ireland (EIRE)
+3. Ieland (EIRE)
 4. Spain
 5. Netherlands
 ![Head](Images/Country_orders.PNG)
@@ -52,5 +52,5 @@ Possibly most customers made purchases during lunch hour between 12:00pm - 2:00p
 
 ### Outlier in analysis
 ![Head](Images/free_item.PNG)
-The company tends to give out FREE items for purchases occasionally each month (Except June 2011)
+The company tends to give out FREE items for purchases occasionally each month (Except June 2020)
 However, it is not clear what factors contribute to giving out the FREE items to the particular customers
