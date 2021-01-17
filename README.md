@@ -6,14 +6,14 @@ A customer tempo analysis goes to the next level by incorporating transaction da
 
 
 
-# Hourly Trends
+### Hourly Trends
 The company receives the highest number of orders at 12:00pm
 Possibly most customers made purchases during lunch hour between 12:00pm - 2:00pm
 
 
-# Weekly Trends
-####  Finding: The number of orders received by the company tends to increases from Monday to Thursday and decrese afterward
-####  Finding: There are no transactions on Saturday between 1st Dec 2019 - 9th Dec 2020
+### Weekly Trends
+#### Finding: The number of orders received by the company tends to increases from Monday to Thursday and decrese afterward
+#### Finding: There are no transactions on Saturday between 1st Dec 2019 - 9th Dec 2020
 
 ### Monthly Trends
 
@@ -25,7 +25,7 @@ Germany
 France
 Ireland (EIRE)
 Spain
-####  Finding: The customer with the highest number of orders comes from the United Kingdom (UK)
+#### Finding: The customer with the highest number of orders comes from the United Kingdom (UK)
 
 ### TOP 5 countries (including UK) that spend the most money on purchases are as below:
 
