@@ -40,7 +40,7 @@ Possibly most customers made purchases during lunch hour between 12:00pm - 2:00p
 2. Ireland (EIRE)
 3. Germany
 4. France
-5.Australia
+5. Australia
 #### Finding : The customer with the highest money spent on purchases comes from Netherlands
 
 ### Outlier in analysis
