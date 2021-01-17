@@ -5,6 +5,13 @@ A customer tempo analysis goes to the next level by incorporating transaction da
 
 Covering all aspects of the customer life cycle will help to maximize returns. Using this data and its research capability enhances customer service. It is well worth the effort of looking at these analytics to understand what they mean. Beyond that, the best move to make is to act on what those analytics are telling us.
 
+#### Successful customer tempo analysis depends on three critical ingredients:
+1. Comprehensive data that includes demographic data, behavioral data, media response data and a
+record of transactional data that is as complete as possible
+2. Analytical tools capable of combining all these data sources into one view which can be adjusted for
+the desired marketing goals
+3. Clear strategic and financial objectives 
+
 ## Analysis Findings
 
 ### Hourly Trends
