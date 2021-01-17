@@ -25,22 +25,22 @@ Possibly most customers made purchases during lunch hour between 12:00pm - 2:00p
 
 ### Country Patterns
 ![Head](Images/Country_patterns.PNG)
-### TOP 5 countries (including UK) that place the highest number of orders are as below:
-1. United Kingdom
-2. Germany
-3. France
-4. Ireland (EIRE)
-5. Spain
-![Head](Images/Country_orders.PNG)
-#### Finding: The customer with the highest number of orders comes from the United Kingdom (UK)
-
-### TOP 5 countries (including UK) that spend the most money on purchases are as below:
-![Head](Images/Country_money_spent.PNG)
-1. United Kingdom
-2. Netherlands
+### TOP 5 countries (without UK) that place the highest number of orders are as below:
+1. Germany
+2. France
 3. Ireland (EIRE)
-4. Germany
-5. France
+4. Spain
+5. Netherlands
+![Head](Images/Country_orders.PNG)
+#### Finding: The customer with the highest number of orders comes from the Germany
+
+### TOP 5 countries (without UK) that spend the most money on purchases are as below:
+![Head](Images/Country_money_spent.PNG) 
+1. Netherlands
+2. Ireland (EIRE)
+3. Germany
+4. France
+5.Australia
 #### Finding : The customer with the highest money spent on purchases comes from Netherlands
 
 ### Outlier in analysis
