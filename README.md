@@ -1,7 +1,7 @@
 # Transaction-Analysis
 ![Head](Images/ecommerce-analysis.jpg)
-A customer tempo analysis goes to the next level by incorporating transaction data into the scoring methodology to create improved scores that are a more accurate prediction of the customer’s propensity for certain behavior.
 
+A customer tempo analysis goes to the next level by incorporating transaction data into the scoring methodology to create improved scores that are a more accurate prediction of the customer’s propensity for certain behavior.
 
 ## Analysis Findings
 
